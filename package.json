@@ -1,0 +1,21 @@
+{
+  "name": "epam-automated-testing-fundamentals",
+  "version": "1.0.0",
+  "description": "JavaScript exercises for the EPAM Automated Testing Fundamentals course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natalialabunskaia/epam-automated-testing-fundamentals.git"
+  },
+  "keywords": [],
+  "author": "Natalia Illarionova",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/natalialabunskaia/epam-automated-testing-fundamentals/issues"
+  },
+  "homepage": "https://github.com/natalialabunskaia/epam-automated-testing-fundamentals#readme"
+}
