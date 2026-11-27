@@ -150,3 +150,6 @@ vite.config.ts.timestamp-*
 .turbo
 
 mochawesome-report/
+screenshots/
+allure-results/
+allure-report/
